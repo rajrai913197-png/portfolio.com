@@ -96,4 +96,73 @@ body{
    font-size: 15px;
     color: #999999;
 }
-
+#projectspage{
+    padding: 20px;
+}
+#probio{
+    color: white;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+#card{
+    color: white;
+    font-size: 25px;
+    font-family: 'orbitron', sans-serif;
+}
+#contactme{
+    background-color: #2d2d2d;
+    height: auto;
+    width: 100%;
+    padding: 20px;
+}
+#touch{
+    color: white;
+    font-family: 'orbitron', sans-serif;
+    font-size: 23px;
+   
+}
+#email{
+    color: white;
+    font-family: 'orbitron', sans-serif;
+    font-size: 12px;
+}
+#com{
+    color: #999999;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+#insta{
+    width: 18px;
+    height: 18px;
+    object-fit: fill;
+   border-radius: 2px;
+   
+}
+#social{
+    display: flex;
+    gap: 5px;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+    
+}
+#githb{
+   display: flex;
+   gap: 5px;
+}
+#git{
+    width: 18px;
+    height: 18px;
+    object-fit: fill;
+   border-radius: 2px;
+}
+#linkpp{
+    display: flex;
+    gap: 5px;
+}
+#linkdin{
+    width: 18px;
+    height: 18px;
+    object-fit: fill;
+    border-radius: 2px;
+}
